@@ -1,0 +1,62 @@
+<html>
+<table>
+<thead>
+<tr>
+              <td colspan="4">
+              <h2>Reporte para Curso <b>"Capacitacion PLSQL"</b></h2>
+              </td>
+              </tr>
+              <tr>
+              	<td><b>Jornada:</b> 8:00 am - 10:00 am<br>
+					<b>Fecha Inicio:</b> 2016-06-01<br>
+					<b>Fecha Fin:</b> 2016-06-15 <br>
+					<b>Patrocinador:</b> Fepade <br>        	
+              	</td>
+              </tr>
+              <tr><td><br></td></tr>
+                <tr>
+                  <th>Nombre</th>
+                  <th>Cargo</th>
+                  <th>Departamento</th>
+                
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+				                  <td>Marvin Galdamez</td>
+				                  <td>Programador Analista</td>
+								  <td>Informatica</td>
+				                </tr><tr>
+				                  <td>Samuel Aviles</td>
+				                  <td>Programador Analista</td>
+								  <td>Informatica</td>
+				                </tr><tr>
+				                  <td>Juan Perez</td>
+				                  <td>Veterinario</td>
+								  <td>Informatica</td>
+				                </tr><tr>
+				                  <td>JOSE DAVID MARTINEZ SERRANO</td>
+				                  <td>TECNICO COORDINADOR DE LA 6</td>
+								  <td>OFICINA DE ACCESO A LA INFORMACION PUBLICA</td>
+				                </tr><tr>
+				                  <td>KAREN MICHELLE RODRIGUEZ LOPEZ</td>
+				                  <td>TECNICO DE LA 6</td>
+								  <td>OFICINA DE ACCESO A LA INFORMACION PUBLICA</td>
+				                </tr><tr>
+				                  <td>ARMANDO MAURICIO PARADA DURAN</td>
+				                  <td>DIRECTOR DE LA 8</td>
+								  <td>UNIDAD DE AUDITORIA INTERNA</td>
+				                </tr><tr>
+				                  <td>MARGARITA MIRIAM LANDAVERDE FLORES</td>
+				                  <td>TECNICO AUDITOR</td>
+								  <td>UNIDAD DE AUDITORIA INTERNA</td>
+				                </tr><tr>
+				                  <td>Isabel Merino</td>
+				                  <td>Auditora</td>
+								  <td>UNIDAD DE AUDITORIA INTERNA</td>
+				                </tr>  
+
+</tbody>
+</table>
+</html>
+

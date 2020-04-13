@@ -1,0 +1,45 @@
+
+<br />
+<b>Notice</b>:  A session had already been started - ignoring session_start() in <b>C:\Users\Marvin\xampp\htdocs\registro_cursos\sesion.php</b> on line <b>2</b><br />
+<html>
+<table>
+<thead>
+<tr>
+              <td colspan="4">
+              <h2>Reporte para Curso <b>"Capacitacion PLSQL"</b></h2>
+              </td>
+              </tr>
+              <tr>
+              	<td><b>Jornada:</b> 8:00 am - 10:00 am<br>
+					<b>Fecha Inicio:</b> 2016-06-01<br>
+					<b>Fecha Fin:</b> 2016-06-15 <br>
+					<b>Patrocinador:</b> Fepade <br>        	
+              	</td>
+              </tr>
+              <tr><td><br></td></tr>
+                <tr>
+                  <th>Nombre</th>
+                  <th>Cargo</th>
+                  <th>Departamento</th>
+                
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+				                  <td>Marvin Galdamez</td>
+				                  <td>Programador Analista</td>
+								  <td>Informatica</td>
+				                </tr><tr>
+				                  <td>Samuel Aviles</td>
+				                  <td>Programador Analista</td>
+								  <td>Informatica</td>
+				                </tr><tr>
+				                  <td>Juan Perez</td>
+				                  <td>Veterinario</td>
+								  <td>Informatica</td>
+				                </tr>  
+
+</tbody>
+</table>
+</html>
+

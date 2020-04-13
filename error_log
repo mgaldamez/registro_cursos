@@ -1,0 +1,43 @@
+[28-May-2016 23:16:51 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[28-May-2016 23:16:54 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[28-May-2016 23:17:14 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[29-May-2016 22:44:41 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rreesvco/public_html/clases/db.class.php on line 6
+[29-May-2016 22:44:54 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rreesvco/public_html/clases/db.class.php on line 6
+[29-May-2016 22:48:02 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rreesvco/public_html/clases/db.class.php on line 6
+[29-May-2016 22:48:17 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rreesvco/public_html/clases/db.class.php on line 6
+[29-May-2016 22:49:50 America/New_York] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/rreesvco/public_html/clases/db.class.php on line 6
+[29-May-2016 22:49:50 America/New_York] PHP Warning:  mysql_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/rreesvco/public_html/clases/db.class.php on line 6
+[30-May-2016 14:32:52 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[30-May-2016 16:39:53 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[30-May-2016 16:40:01 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[30-May-2016 17:00:07 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[26-Jun-2016 17:24:06 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[27-Jun-2016 12:43:52 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[08-Jul-2016 19:04:02 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[08-Jul-2016 22:26:10 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[09-Jul-2016 11:44:34 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[10-Jul-2016 20:21:30 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[12-Jul-2016 21:13:50 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[12-Jul-2016 21:33:19 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[12-Jul-2016 21:33:24 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[14-Jul-2016 00:17:50 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[16-Jul-2016 09:39:19 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[16-Jul-2016 17:24:37 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[16-Jul-2016 19:47:24 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[17-Jul-2016 12:59:08 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[17-Jul-2016 12:59:09 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[23-Jul-2016 12:31:32 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[23-Jul-2016 12:31:38 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[26-Jul-2016 23:11:57 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[29-Jul-2016 11:09:25 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[29-Jul-2016 11:09:26 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[01-Aug-2016 10:32:27 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[01-Aug-2016 15:25:08 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[07-Aug-2016 18:36:09 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[11-Aug-2016 16:34:51 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[11-Aug-2016 16:34:53 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[14-Aug-2016 22:13:38 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[25-Aug-2016 12:55:32 America/New_York] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/rreesvco/public_html/clases/menu.class.php on line 15
+[25-Aug-2016 13:21:40 America/New_York] PHP Fatal error:  Call to undefined method Usuario::deleteRol() in /home/rreesvco/public_html/users.php on line 88
+[25-Aug-2016 13:22:01 America/New_York] PHP Fatal error:  Call to undefined method Usuario::deleteRol() in /home/rreesvco/public_html/users.php on line 88
+[25-Aug-2016 13:22:27 America/New_York] PHP Fatal error:  Call to undefined method Usuario::deleteRol() in /home/rreesvco/public_html/users.php on line 88
